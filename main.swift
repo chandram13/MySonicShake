@@ -6,15 +6,15 @@ import Foundation
 
 class uniqueShake {
 
-    func combineShake{
-        flavors = ["Churro","Strawberry Cheesecake","Cheesecake","OREO Cheesecake","OREO Chocolate","OREO & Reese's Peanut Butter","Strawberry","Chocolate","Fresh Banana","Vanilla","Reese's Peanut Butter","Hot Fudge","Caramel"]
-        myShake = []
-        while i = 0; myShake > i.length; i++{
+    func combineShake {
+        var flavors = ["Churro", "Strawberry Cheesecake", "Cheesecake", "OREO Cheesecake", "OREO Chocolate", "OREO & Reese's Peanut Butter", "Strawberry", "Chocolate", "Fresh Banana", "Vanilla", "Reese's Peanut Butter", "Hot Fudge", "Caramel"]
+        var myShake = []
+        while i = 0; myShake > i.length; i ++ {
             flavors[i] += myShake
             break;
         }
     }
-
+}
     struct Additions {
         myObj1 = currentItems
         myObj2 = mixIns
@@ -22,6 +22,6 @@ class uniqueShake {
         myObj4 = flavorings
     }
 
-}
+
 
 
