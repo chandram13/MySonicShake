@@ -33,6 +33,7 @@ class uniqueShake {
                 break;
             }
         }
+        else print("Suggest to the user that might want to order a different drink or Sonic Blast.")
     }
 }
     struct Additions {
